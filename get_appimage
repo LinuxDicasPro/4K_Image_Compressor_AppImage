@@ -60,7 +60,7 @@ test ! -e "appimagetool-x86_64.AppImage" && {
 #########
 
 link_prg="https://dl.4kdownload.com/app/4kimagecompressor_${version}_amd64.tar.bz2"
-link_svg="https://static.4kdownload.com/main/img/redesign/imagecompressor.ea5d9ce6491b.svg"
+link_svg="https://raw.githubusercontent.com/LinuxDicasPro/4K_Image_Compressor_AppImage/refs/heads/master/imagecompressor.874d28e903f2.svg"
 
 #########
 
